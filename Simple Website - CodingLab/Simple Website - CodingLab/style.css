@@ -6,12 +6,12 @@
   font-family: 'Poppins',sans-serif;
 }
 ::selection{
-  color: rgb(29, 193, 17);
+  color: rgb(193, 93, 17);
   background: rgb(101, 11, 11);
 }
 nav{
   position: fixed;
-  background: #1b1b1b;
+  background: #1a1341;
   width: 100%;
   padding: 10px 0;
   z-index: 12;
@@ -42,7 +42,7 @@ nav .menu{
 }
 .menu ul li a{
   text-decoration: none;
-  color: rgb(207, 126, 126);
+  color: rgb(224, 116, 116);
   font-size: 18px;
   font-weight: 500;
   padding: 8px 15px;
